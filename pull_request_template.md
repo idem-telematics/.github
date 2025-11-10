@@ -1,8 +1,9 @@
-## By approving this PR the approver confirms that
-- [ ] Code builds locally
-- [ ] Tests are added/updated
-- [ ] Documentation is updated
-- [ ] Security review completed with respect to internal secure software development guidelines
+## PR Checkliste:
 
-CURRENTLY THESE CONFIRMATIONS ARE NOT REQUIRED!
-The PR approval workflow is still under development.
+* \[ ] Akzeptanzkriterien sind erfüllt
+* \[ ] Architekturvorgaben sind erfüllt
+* \[ ] Unit-Tests sind vorhanden
+* \[ ] Security-Checkliste wurde geprüft https://idemtelematics.atlassian.net/wiki/spaces/CAR/pages/2490597378/Entwicklungsprozess+Security-Checkliste
+
+
+
