@@ -1,4 +1,9 @@
 Die folgende Checkliste bitte in den Freigabe-Kommentar kopieren und vor die Freigabe des PR abhaken.
+
+Zum Kopieren am besten das Edit-Tab verwenden, nicht die Preview.
+
+**Die Liste bitte nicht hier ausfüllen!**
+
 Es müssen nicht zwangsweise alle Punkte abgehakt werden, nur die zutreffenden.
 
 -- CUT HERE --
